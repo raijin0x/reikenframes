@@ -5,7 +5,7 @@ const nextConfig = {
       return [
         {
           source: '/reikenoni',
-          destination: 'https://reikenframes.pages.dev',
+          destination: 'https://cosmiccowboys.cloud',
           permanent: false
         },
         {
