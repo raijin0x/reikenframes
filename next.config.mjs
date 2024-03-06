@@ -5,7 +5,7 @@ const nextConfig = {
       return [
         {
           source: '/reikenoni',
-          destination: 'https://cosmiccowboys.cloud',
+          destination: 'https://www.bing.com/images/create',
           permanent: false
         },
         {
